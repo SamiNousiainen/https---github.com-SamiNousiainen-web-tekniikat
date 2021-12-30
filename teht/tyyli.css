@@ -1,0 +1,16 @@
+.important {
+    color: rgb(70, 150, 70);
+}
+
+body {
+    background-color: black;
+    color: rgb(70, 150, 70);
+}
+
+textarea {
+    background-color: rgb(70, 150, 70);
+}
+
+input {
+    background-color: rgb(70, 150, 70);
+}

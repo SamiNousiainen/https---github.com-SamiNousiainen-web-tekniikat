@@ -1,0 +1,8 @@
+.colored {
+    background-color: aquamarine;
+}
+.important {
+    font-weight: bold;
+    color: blueviolet;
+    border: solid red;
+}

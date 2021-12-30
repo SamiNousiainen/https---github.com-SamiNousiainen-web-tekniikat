@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h1 {
+    color: rgb(115, 236, 115)
+}
+.green {
+    color: green;
+}
+div {
+    font-size: 2em;
+    color: greenyellow;
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../teht/myman.png);
+    border: 1px solid greenyellow;
+}
+label {
+    color: rgb(115, 236, 115);
+}
+input[required] {
+    border: 3px solid red;
+}
+p {
+    color: greenyellow;
+}
+[class*="article"] {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(115, 255, 0);
+}
